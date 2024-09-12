@@ -1,0 +1,7 @@
+com\mycompany\doctor\GeneralPractitioner.class
+com\mycompany\doctor\Doctor.class
+com\mycompany\doctor\DoctorApp.class
+com\mycompany\doctor\Specialist.class
+com\mycompany\doctor\DoctorAppointmentSystem.class
+com\mycompany\doctor\Appointment.class
+com\mycompany\doctor\Patient.class
